@@ -2,7 +2,7 @@
 
 ## 📝 Project Description
 
-This project is a **Medical Expert System** designed to assist in diagnosing common illnesses based on symptoms presented by patients. The system leverages a knowledge base of medical rules and employs **backward chaining inference** to offer comprehensive diagnoses to users.
+This project is a small ** Medical Expert System ** designed to assist in diagnosing common illnesses based on symptoms presented by patients. The system uses a knowledge base of medical rules and employs backward chaining inference to offer basic diagnoses to users.
 
 ## 🧑‍⚕️ Problem Formulation
 
