@@ -1,8 +1,9 @@
 # Medical Expert System
+![Medical Expert System](./system.png)
 
 ## 📝 Project Description
 
-This project is a small ** Medical Expert System ** designed to assist in diagnosing common illnesses based on symptoms presented by patients. The system uses a knowledge base of medical rules and employs backward chaining inference to offer basic diagnoses to users.
+This project is a small **Medical Expert System** designed to assist in diagnosing common illnesses based on symptoms presented by patients. The system uses a knowledge base of medical rules and employs backward chaining inference to offer basic diagnoses to users.
 
 ## 🧑‍⚕️ Problem Formulation
 
@@ -11,6 +12,8 @@ Medical diagnosis often requires considering multiple symptoms to accurately ide
 - **Knowledge Base**: A repository of medical rules linking symptoms to specific illnesses.
 - **Inference Engine**: Backward chaining inference to analyze user-provided symptoms and deduce potential illnesses.
 - **User Interface**: A simple, user-friendly PyQt5-based interface for users to input symptoms and receive diagnosis reports.
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -24,19 +27,21 @@ You can access the report here:
 
 [Medical Expert System Report](./Medical_Expert_System_Report.pdf)
 
+---
 
 ## ⚙️ Features
 
 - **Symptom Input**: Users can input a list of symptoms through a graphical interface.
 - **Backward Chaining**: The system uses backward chaining for reasoning to identify illnesses based on symptoms.
 - **User Interface**: Designed using **PyQt5** to allow users to input symptoms and receive diagnosis reports.
+---
 
 ## 💻 Installation
 
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/Medical-Expert-System.git
+git clone https://github.com/Chourouq/Medical-Expert-System.git
 cd Medical-Expert-System
 pip install -r requirements.txt
 
@@ -45,4 +50,13 @@ Run the python script
 ```bash
 python main.py
 ```
+---
 
+## 📞 Contact
+
+For any inquiries or collaboration, feel free to reach out to me:
+
+- **Email**: batiche.chourouq@gmail.com
+- **LinkedIn**: [Chourouq Batiche](https://www.linkedin.com/in/chourouq-batiche-bb8a2a334/)
+
+I look forward to hearing from you!
