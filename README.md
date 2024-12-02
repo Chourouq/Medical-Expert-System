@@ -19,9 +19,10 @@ Medical diagnosis often requires considering multiple symptoms to accurately ide
 - **Inference Technique**: Backward Chaining (AIMA framework)
 - **Knowledge Representation**: First-Order Logic (FOL)
 - **Version Control**: GitHub for source code management
-You can access the full report here:
+### 
+You can access the report here:
 
-[Medical Expert System Report](./)
+[Medical Expert System Report](./Medical_Expert_System_Report.pdf)
 
 
 ## ⚙️ Features
